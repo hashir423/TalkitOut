@@ -1,2 +1,37 @@
-# TalkitOut
-Mental health awareness is a buzzing topic. There have been a lot of awareness camps and innovative events happening on campus. Most mental illnesses in students occur due to anxiety and bottling up thoughts. They have no one suitable to talk to. Sometimes just talking out is all a student needs. So to help students in distress or who just need someone to talk to, we have come up with an idea to build an application for students to book appointments with volunteers when in need. This application matches students and volunteers based on a matching algorithm that incorporates common parameters to give a score. The volunteer with maximum score for a student gets matched to the student. Both volunteer and student can meet post that. This application is called TALKITOUT. 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/hashir423/TalkitOut/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hashir423/TalkitOut/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
