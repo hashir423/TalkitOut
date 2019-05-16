@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=volunteer
+comment1.params=
+comment1.target=volunteer()
+comment2.params=studentID\ name\ email\ gender\ birthYear\ birthMonth\ birthDay\ course\ phoneNumber\ dayAvailable\ aboutMe
+comment2.target=volunteer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=studentID\ name\ email\ gender
+comment3.target=volunteer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=aboutMe
+comment4.target=void\ setAboutMe(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getAboutMe()
+comment6.params=
+comment6.target=java.lang.String\ displayDetails()
+numComments=7
